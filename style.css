@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(85, 155, 155);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 210px;
+    height: 250px;
+    padding: 10px 0;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+div{
+    background-color: white;
+    height: 420px;
+    width: 250px;
+    text-align: center;
+    border-radius: 20px;
+}
+.text{
+    padding: 0px 12px;
+}
